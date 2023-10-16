@@ -33,8 +33,8 @@ I am Mostafizar Rahman. I’m a **Front-End/React Developer** who is passionate 
 
 
 ## 📈 GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafizar-rahman)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafizar-rahman&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mostafizar-rahman&show_icons=true)  
 
-![Profile views](https://gpvc.arturio.dev/mostafizar-rahman)  
+

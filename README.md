@@ -11,8 +11,7 @@ I am Mostafizar Rahman. I’m a Front End Web developer who is passionate about 
 [<img src="https://i.ibb.co/Bqt8g4D/web.png" alt="web" border="0">](https://mostafizar.netlify.app/)  
 
 
-<br/>
-<br/>
+
 ## 💼 Technical Skills:
 ![](https://img.shields.io/badge/Expertise-React-informational?logo=react&color=61DAFB)
 ![](https://img.shields.io/badge/Expertise-Javascript-informational?style=flat&logo=javascript&color=F7DF1E)
@@ -21,8 +20,7 @@ I am Mostafizar Rahman. I’m a Front End Web developer who is passionate about 
 ![](https://img.shields.io/badge/Expertise-SCSS-informational?logo=scss&color=61DAFB)
 
 
-<br/>
-<br/>
+
 ## 📈 GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafizar-rahman)](https://github.com/anuraghazra/github-readme-stats)
 

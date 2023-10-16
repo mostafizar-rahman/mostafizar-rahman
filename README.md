@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I am Mostafizar Rahman. I am a #### Front-end Developer
 <!--
 **mostafizar-rahman/mostafizar-rahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

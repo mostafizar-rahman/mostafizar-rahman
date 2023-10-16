@@ -1,8 +1,7 @@
 
-### Hi there 👋, I am Mostafizar Rahman
-#### Front-End Developer
+### Hi there 👋
 
-I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. 
+I am Mostafizar Rahman. I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. 
 
 ## 🤝 Connect with me:
 [<img src="https://i.ibb.co/HCT80VM/linkedin.png" alt="linkedin" border="0">](https://www.linkedin.com/in/https://www.linkedin.com/in/dev-mostafizar//)
@@ -15,6 +14,8 @@ I’m a Front End Web developer who is passionate about making error-free websit
 ## 💼 Technical Skills:
 
 
+
+## 📈 GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafizar-rahman)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mostafizar-rahman&show_icons=true)  

@@ -8,7 +8,8 @@ I am Mostafizar Rahman. I’m a **Front-End/React Developer** who is passionate 
 [<img src="https://i.ibb.co/qgTHT2d/facebook.png" alt="facebook" border="0" style="marginLeft:'10px'">](https://www.facebook.com/https://web.facebook.com/profile.php?id=100008522538788)
 [<img src="https://i.ibb.co/7njZ6hJ/instagram.png" alt="instagram" border="0">](https://www.instagram.com/https://www.instagram.com/dev.mostafizar//)
 [<img src="https://i.ibb.co/vsrv0Q9/twitter-2.png" alt="twitter-2" border="0">](https://twitter.com/https://twitter.com/MDMOSTA23184912)
-[<img src="https://i.ibb.co/SnmPkgM/web-1.png" alt="web-1" border="0">](https://mostafizar.netlify.app/)  
+
+<a href="https://mostafizar.netlify.app/" target="blank"><img src="https://i.ibb.co/SnmPkgM/web-1.png" alt="web-1" border="0" width="32"></a>
 <a href="mailto:dev.mostafizar@gmail.com" target="blank"><img src="https://i.ibb.co/D7XFdQp/gmail.png" alt="gmail" border="0" width="32"></a>
 
 

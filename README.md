@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-I am Mostafizar Rahman. I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. 
+I am Mostafizar Rahman. I’m a **Front-End/React Developer** who is passionate about making error-free websites with 100% client satisfaction. 
 
 ## 🤝 Connect with me:
 [<img src="https://i.ibb.co/HCT80VM/linkedin.png" alt="linkedin" border="0" >](https://www.linkedin.com/in/https://www.linkedin.com/in/dev-mostafizar//)
@@ -17,7 +17,13 @@ I am Mostafizar Rahman. I’m a Front End Web developer who is passionate about 
 ![](https://img.shields.io/badge/Expertise-Javascript-informational?style=flat&logo=javascript&color=F7DF1E)
 ![](https://img.shields.io/badge/Expertise-HTML-informational?logo=HTML5&color=E34F26)
 ![](https://img.shields.io/badge/Expertise-CSS-informational?logo=CSS3&color=F5F5F5)
-![](https://img.shields.io/badge/Expertise-SCSS-informational?logo=scss&color=61DAFB)
+![](https://img.shields.io/badge/Expertise-SCSS-informational?style=flat&logo=sass&color=CC6699)
+![](https://img.shields.io/badge/Comfortable-Tailwind%20CSS-informational?style=flat&logo=TailwindCSS&color=06B6D4)
+
+![](https://img.shields.io/badge/Comfortable-TypeScript-informational?style=flat&logo=TypeScript&color=3178C6)
+![](https://img.shields.io/badge/Comfortable-Redux-informational?style=flat&logo=redux&color=D6D6D6)
+![](https://img.shields.io/badge/Comfortable-Next.Js-informational?style=flat&logo=Next.js&color=D6D6D6)
+
 
 
 

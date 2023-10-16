@@ -12,7 +12,11 @@ I am Mostafizar Rahman. I’m a Front End Web developer who is passionate about 
 
 
 ## 💼 Technical Skills:
-
+![](https://img.shields.io/badge/Expertise-React-informational?logo=react&color=61DAFB)
+![](https://img.shields.io/badge/Expertise-JavaScript-informational?logo=javascript&color=61DAFB)
+![](https://img.shields.io/badge/Expertise-HTML-informational?logo=html&color=61DAFB)
+![](https://img.shields.io/badge/Expertise-CSS-informational?logo=css&color=61DAFB)
+![](https://img.shields.io/badge/Expertise-SCSS-informational?logo=scss&color=61DAFB)
 
 
 ## 📈 GitHub Stats

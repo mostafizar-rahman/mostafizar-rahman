@@ -6,12 +6,12 @@ I am Mostafizar Rahman. I’m a **Front-End/React Developer** who is passionate 
 ## 🤝 Connect with me:
 
 
-<a href="https://www.linkedin.com/in/dev-mostafizar//" target="blank"><img src="https://i.ibb.co/HCT80VM/linkedin.png" alt="web-1" border="0" width="32"></a>
-<a href="https://web.facebook.com/profile.php?id=100008522538788" target="blank"><img src="https://i.ibb.co/qgTHT2d/facebook.png" alt="web-1" border="0" width="32"></a>
-<a href="https://www.instagram.com/dev.mostafizar//" target="blank"><img src="https://i.ibb.co/7njZ6hJ/instagram.png" alt="web-1" border="0" width="32"></a>
-<a href="https://twitter.com/MDMOSTA23184912" target="blank"><img src="https://i.ibb.co/vsrv0Q9/twitter-2.png" alt="web-1" border="0" width="32"></a>
-<a href="https://mostafizar.netlify.app/" target="blank"><img src="https://i.ibb.co/SnmPkgM/web-1.png" alt="web-1" border="0" width="32"></a>
-<a href="mailto:dev.mostafizar@gmail.com" target="blank"><img src="https://i.ibb.co/D7XFdQp/gmail.png" alt="gmail" border="0" width="32"></a>
+<a href="https://www.linkedin.com/in/dev-mostafizar//" target="_blank"><img src="https://i.ibb.co/HCT80VM/linkedin.png" alt="web-1" border="0" width="32"></a>
+<a href="https://web.facebook.com/profile.php?id=100008522538788" target="_blank"><img src="https://i.ibb.co/qgTHT2d/facebook.png" alt="web-1" border="0" width="32"></a>
+<a href="https://www.instagram.com/dev.mostafizar//" target="_blank"><img src="https://i.ibb.co/7njZ6hJ/instagram.png" alt="web-1" border="0" width="32"></a>
+<a href="https://twitter.com/MDMOSTA23184912" target="_blank"><img src="https://i.ibb.co/vsrv0Q9/twitter-2.png" alt="web-1" border="0" width="32"></a>
+<a href="https://mostafizar.netlify.app/" target="_blank"><img src="https://i.ibb.co/SnmPkgM/web-1.png" alt="web-1" border="0" width="32"></a>
+<a href="mailto:dev.mostafizar@gmail.com" target="_blank"><img src="https://i.ibb.co/D7XFdQp/gmail.png" alt="gmail" border="0" width="32"></a>
 
 
 

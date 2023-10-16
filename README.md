@@ -3,9 +3,11 @@
 
 I am Mostafizar Rahman. I’m a **Front-End/React Developer** who is passionate about making error-free websites with 100% client satisfaction. 
 
+- 🔭 I’m currently working on React.Js
+- 🌱 I’m currently learning Three.Js
+- 
+
 ## 🤝 Connect with me:
-
-
 <a href="https://www.linkedin.com/in/dev-mostafizar//" target="_blank"><img src="https://i.ibb.co/HCT80VM/linkedin.png" alt="web-1" border="0" width="32"></a>
 <a href="https://web.facebook.com/profile.php?id=100008522538788" target="_blank"><img src="https://i.ibb.co/qgTHT2d/facebook.png" alt="web-1" border="0" width="32"></a>
 <a href="https://www.instagram.com/dev.mostafizar//" target="_blank"><img src="https://i.ibb.co/7njZ6hJ/instagram.png" alt="web-1" border="0" width="32"></a>

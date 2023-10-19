@@ -1,11 +1,11 @@
 
 ### Hi there 👋
 
-I am Mostafizar Rahman. I’m a **Front-End/React Developer** who is passionate about making error-free websites with 100% client satisfaction. 
+Passionate and motivated front-end developer. Dedicated to delivering high-quality code, optimizing performance, and ensuring cross-browser compatibility. I always love to learn new technology and like to do challenging work
 
 - 🔭 I’m currently working on React.Js
 - 🌱 I’m currently learning Three.Js
-- 
+  
 
 ## 🤝 Connect with me:
 <a href="https://www.linkedin.com/in/dev-mostafizar//" target="_blank"><img src="https://i.ibb.co/HCT80VM/linkedin.png" alt="web-1" border="0" width="32"></a>

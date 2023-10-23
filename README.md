@@ -4,7 +4,7 @@
 Passionate and motivated front-end developer. Dedicated to delivering high-quality code, optimizing performance, and ensuring cross-browser compatibility. I always love to learn new technology and like to do challenging work
 
 - 🔭 I’m currently working on React.Js
-- 🌱 I’m currently learning Three.Js
+- 🌱 I’m currently learning Next.Js
   
 
 ## 🤝 Connect with me:
